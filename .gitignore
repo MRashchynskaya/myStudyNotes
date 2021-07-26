@@ -1,0 +1,13 @@
+dist
+build/Release
+node_modules/
+*.log
+.bild
+.npm
+.eslintcache
+.env
+.env.test
+.cache
+.next
+.idea
+yarn.lock
